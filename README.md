@@ -130,4 +130,6 @@ Directional accuracy (percentage of correct up/down predictions) is a useful sup
 | Database | SQLite for prototype | Move to PostgreSQL for production |
 | Hosting | Railway.app | Free, supports FastAPI and Postgres |
 
-## Demo: https://drive.google.com/drive/folders/1bd0zG0pyiuZqwNO4NFl1eLNlqHZmb89w?usp=sharing 
+## Demo: 
+
+https://drive.google.com/drive/folders/1bd0zG0pyiuZqwNO4NFl1eLNlqHZmb89w?usp=sharing 
