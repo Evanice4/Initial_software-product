@@ -74,10 +74,10 @@ App interface mockups, built as an HTML prototype.
 
 | Home and forecast | Market recommendations |
 |:---:|:---:|
- ![Home](designs/home.png) | ![Recommendations](designs/recommendations.PNG)|
+ ![Home](designs/home.PNG) | ![Recommendations](designs/recommendations.PNG)|
 | Shopping basket | Price watch |
 |:---:|:---:|
- ![Basket](designs/basket.png) | ![Price watch](designs/price_watch.png) |
+ ![Basket](designs/basket.PNG) | ![Price watch](designs/price_watch.PNG) |
 
 The home screen shows the forecast for a selected commodity plus a daily price grid. The recommendations screen ranks markets by predicted price for a chosen commodity. The basket screen totals the cost of a multi-item shopping list. The price watch screen is a planned feature showing week-over-week price movement; it is not yet wired to the `/alerts` endpoint, which currently checks price against a fixed threshold instead.
 
