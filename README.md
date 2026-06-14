@@ -1,7 +1,9 @@
 # SokoPrice
 
 AI grocery price forecasting for Kigali informal markets.
+
 BSc Software Engineering
+
 Author: Nice Eva Karabaranga | Supervisor: Hubert Apana
 
 
